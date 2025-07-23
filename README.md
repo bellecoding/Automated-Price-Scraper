@@ -35,6 +35,11 @@ Dynamic Content & Anti-Scraping
 
 Many sites blocked content with dynamic cookie banners in various languages. I built a flexible handler that uses a comprehensive list of keywords and selectors to reliably dismiss these popups, which resulted in a final success rate of over 95%.
 
+Final Excel output showing successful data export, separated by country:
+![Final Scraper Output](https://github.com/bellecoding/Automated-Price-Scraper/blob/main/output%20image.jpg)
+
+
+
 How to Run
 
 Ensure all requirements are installed: pip install -r requirements.txt
