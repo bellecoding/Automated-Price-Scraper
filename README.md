@@ -49,3 +49,12 @@ Place geckodriver.exe in the project directory.
 Run the script: python price_scraper.py
 
 To run in test mode (first 20 URLs): python price_scraper.py --test
+
+
+Architecture
+
+![Scraper Architecture Diagram](https://github.com/bellecoding/Automated-Price-Scraper/blob/main/ScraperDiagram.drawio.png)
+
+A simple diagram showing the scraper's design. A central queue feeds URLs to multiple browser workers that run in parallel to process the data and save it to the final Excel file.
+
+
