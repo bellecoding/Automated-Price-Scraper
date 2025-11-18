@@ -1,3 +1,6 @@
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/8119c02f-f186-4959-8383-82f516ff6bc4" />
+
+
 E-Commerce Price Scraper for European Markets
 
 I built this automated web scraper to collect product prices from e-commerce sites across nine European countries. The goal was to create a reliable tool that could handle dynamic JavaScript content and various anti-scraping measures.
